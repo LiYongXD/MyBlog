@@ -3,7 +3,9 @@ title: Python配置
 date: 2015-12-14 22:57:12
 tags:
 - Python配置
-- 技巧
+- 心得
+category:
+- Python
 ---
 
 ## 如何找到Python的安装目录

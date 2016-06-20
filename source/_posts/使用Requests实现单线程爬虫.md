@@ -4,6 +4,8 @@ date: 2015-12-14 21:49:16
 tags:
 - 爬虫
 - Requests 
+category:
+- Python
 ---
 
 ## Requests是什么?

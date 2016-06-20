@@ -2,6 +2,8 @@
 menu:
   Home: /
   Archives: /archives
+  Read: /read
+  About: /about
 rss: /atom.xml
 
 # Content
@@ -15,7 +17,9 @@ widgets:
 - tag
 - tagcloud
 - archive
-- recent_posts
+- links
+# - mathjax
+# - recent_posts
 
 
 # Miscellaneous
@@ -26,3 +30,11 @@ google_plus:
 fb_admins: 
 fb_app_id:
 
+# Links
+links:
+  哔哩哔哩: http://www.bilibili.com
+  基佬Fun: http://www.acfun.tv
+  # 微博: http://weibo.com/bpsend/
+mathjax: true
+# 版权声明
+show_declare: true

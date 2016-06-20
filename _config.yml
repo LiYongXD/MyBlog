@@ -3,16 +3,16 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 李勇的开发随笔
-subtitle: relax~
-description:
-author: John Doe
+title: 哈哈BABY
+subtitle: 老子还是个宝宝
+description: 李勇的开发随笔 | LiYongXD | 李勇XD | iOS | iOS博客
+author: LiYongXD
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: www.devyong.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: landscape-plus
+theme: yilia
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -79,11 +79,11 @@ duoshuo_shortname: liyongxd
 # Baidu share
 baidushare: true
 
-# Baidu share
-baidushare: true
 # Links
 links:
   哔哩哔哩: http://www.bilibili.com
   基佬Fun: http://www.acfun.tv
-  微博: http://weibo.com/bpsend/
+  # 微博: http://weibo.com/bpsend/
+  
 mathjax: true
+
