@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 哈哈BABY
-subtitle: 老子还是个宝宝
-description: 李勇的开发随笔 | LiYongXD | 李勇XD | iOS | iOS博客
-author: LiYongXD
-language: zh-CN
+title: 草地上奔跑的壮汉
+subtitle: 一切皆有用，一切皆无用。有用即无用，无用即有用。
+description: 草地上奔跑的壮汉 | YongXD | iOS博客
+author: YongXD
+language: zh-Hans
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
-theme: yilia
+theme: hexo-theme-next
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -86,4 +86,6 @@ links:
   # 微博: http://weibo.com/bpsend/
   
 mathjax: true
+
+baidu_analytics: 5cfd561ac2e47bdb7efd7de13a307c83
 
