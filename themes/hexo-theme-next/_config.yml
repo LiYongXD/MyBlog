@@ -34,6 +34,7 @@ menu:
   archives: /archives
   tags: /tags
   essay: /categories/随笔
+  acg: /categories/ACG
   # read: /read
   about: /about
   # commonweal: /404.html
@@ -142,9 +143,10 @@ social_icons:
 
 
 # Sidebar Avatar
-# in theme directory(source/images): /images/avatar.jpg
-in site  directory(source/uploads): /uploads/avatar.png
+# in theme directory(source/uploads): /uploads/avatar.png
+# in site  directory(source/images): /images/avatar.png
 #avatar:
+avatar: /uploads/avatar.png
 
 
 # Table Of Contents in the Sidebar
